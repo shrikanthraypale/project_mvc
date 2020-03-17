@@ -1,0 +1,6 @@
+D:\C#\bsort\bsort\obj\Debug\bsort.csproj.CoreCompileInputs.cache
+D:\C#\bsort\bsort\bin\Debug\bsort.exe.config
+D:\C#\bsort\bsort\bin\Debug\bsort.exe
+D:\C#\bsort\bsort\bin\Debug\bsort.pdb
+D:\C#\bsort\bsort\obj\Debug\bsort.exe
+D:\C#\bsort\bsort\obj\Debug\bsort.pdb

@@ -1,0 +1,7 @@
+D:\C#\DelegateProg\DelegateProg\bin\Debug\DelegateProg.exe.config
+D:\C#\DelegateProg\DelegateProg\bin\Debug\DelegateProg.exe
+D:\C#\DelegateProg\DelegateProg\bin\Debug\DelegateProg.pdb
+D:\C#\DelegateProg\DelegateProg\obj\Debug\DelegateProg.csprojResolveAssemblyReference.cache
+D:\C#\DelegateProg\DelegateProg\obj\Debug\DelegateProg.csproj.CoreCompileInputs.cache
+D:\C#\DelegateProg\DelegateProg\obj\Debug\DelegateProg.exe
+D:\C#\DelegateProg\DelegateProg\obj\Debug\DelegateProg.pdb

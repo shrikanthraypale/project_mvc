@@ -1,0 +1,11 @@
+D:\C#\MdiForm\MdiForm\bin\Debug\MdiForm.exe.config
+D:\C#\MdiForm\MdiForm\bin\Debug\MdiForm.exe
+D:\C#\MdiForm\MdiForm\bin\Debug\MdiForm.pdb
+D:\C#\MdiForm\MdiForm\obj\Debug\MdiForm.csprojResolveAssemblyReference.cache
+D:\C#\MdiForm\MdiForm\obj\Debug\MdiForm.Form1.resources
+D:\C#\MdiForm\MdiForm\obj\Debug\MdiForm.Properties.Resources.resources
+D:\C#\MdiForm\MdiForm\obj\Debug\MdiForm.userlogin.resources
+D:\C#\MdiForm\MdiForm\obj\Debug\MdiForm.csproj.GenerateResource.Cache
+D:\C#\MdiForm\MdiForm\obj\Debug\MdiForm.csproj.CoreCompileInputs.cache
+D:\C#\MdiForm\MdiForm\obj\Debug\MdiForm.exe
+D:\C#\MdiForm\MdiForm\obj\Debug\MdiForm.pdb

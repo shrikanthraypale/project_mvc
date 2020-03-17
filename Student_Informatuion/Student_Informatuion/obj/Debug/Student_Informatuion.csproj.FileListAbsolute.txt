@@ -1,0 +1,10 @@
+D:\C#\Student_Informatuion\Student_Informatuion\bin\Debug\Student_Informatuion.exe.config
+D:\C#\Student_Informatuion\Student_Informatuion\bin\Debug\Student_Informatuion.exe
+D:\C#\Student_Informatuion\Student_Informatuion\bin\Debug\Student_Informatuion.pdb
+D:\C#\Student_Informatuion\Student_Informatuion\obj\Debug\Student_Informatuion.csprojResolveAssemblyReference.cache
+D:\C#\Student_Informatuion\Student_Informatuion\obj\Debug\Student_Informatuion.Form1.resources
+D:\C#\Student_Informatuion\Student_Informatuion\obj\Debug\Student_Informatuion.Properties.Resources.resources
+D:\C#\Student_Informatuion\Student_Informatuion\obj\Debug\Student_Informatuion.csproj.GenerateResource.Cache
+D:\C#\Student_Informatuion\Student_Informatuion\obj\Debug\Student_Informatuion.csproj.CoreCompileInputs.cache
+D:\C#\Student_Informatuion\Student_Informatuion\obj\Debug\Student_Informatuion.exe
+D:\C#\Student_Informatuion\Student_Informatuion\obj\Debug\Student_Informatuion.pdb

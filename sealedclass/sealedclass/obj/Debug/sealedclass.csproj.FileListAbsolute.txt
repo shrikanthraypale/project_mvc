@@ -1,0 +1,7 @@
+c:\users\admin\source\repos\sealedclass\sealedclass\obj\Debug\sealedclass.csprojResolveAssemblyReference.cache
+c:\users\admin\source\repos\sealedclass\sealedclass\obj\Debug\sealedclass.csproj.CoreCompileInputs.cache
+c:\users\admin\source\repos\sealedclass\sealedclass\bin\Debug\sealedclass.exe.config
+c:\users\admin\source\repos\sealedclass\sealedclass\bin\Debug\sealedclass.exe
+c:\users\admin\source\repos\sealedclass\sealedclass\bin\Debug\sealedclass.pdb
+c:\users\admin\source\repos\sealedclass\sealedclass\obj\Debug\sealedclass.exe
+c:\users\admin\source\repos\sealedclass\sealedclass\obj\Debug\sealedclass.pdb

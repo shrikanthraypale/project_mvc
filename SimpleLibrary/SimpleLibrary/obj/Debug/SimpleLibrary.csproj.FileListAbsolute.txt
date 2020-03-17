@@ -1,0 +1,6 @@
+D:\C#\SimpleLibrary\SimpleLibrary\obj\Debug\SimpleLibrary.csprojResolveAssemblyReference.cache
+D:\C#\SimpleLibrary\SimpleLibrary\obj\Debug\SimpleLibrary.csproj.CoreCompileInputs.cache
+D:\C#\SimpleLibrary\SimpleLibrary\bin\Debug\SimpleLibrary.dll
+D:\C#\SimpleLibrary\SimpleLibrary\bin\Debug\SimpleLibrary.pdb
+D:\C#\SimpleLibrary\SimpleLibrary\obj\Debug\SimpleLibrary.dll
+D:\C#\SimpleLibrary\SimpleLibrary\obj\Debug\SimpleLibrary.pdb

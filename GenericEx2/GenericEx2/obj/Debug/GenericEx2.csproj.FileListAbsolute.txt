@@ -1,0 +1,7 @@
+D:\C#\GenericEx2\GenericEx2\bin\Debug\GenericEx2.exe.config
+D:\C#\GenericEx2\GenericEx2\bin\Debug\GenericEx2.exe
+D:\C#\GenericEx2\GenericEx2\bin\Debug\GenericEx2.pdb
+D:\C#\GenericEx2\GenericEx2\obj\Debug\GenericEx2.csprojResolveAssemblyReference.cache
+D:\C#\GenericEx2\GenericEx2\obj\Debug\GenericEx2.csproj.CoreCompileInputs.cache
+D:\C#\GenericEx2\GenericEx2\obj\Debug\GenericEx2.exe
+D:\C#\GenericEx2\GenericEx2\obj\Debug\GenericEx2.pdb

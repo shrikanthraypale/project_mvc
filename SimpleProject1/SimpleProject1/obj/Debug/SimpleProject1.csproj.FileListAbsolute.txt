@@ -1,0 +1,7 @@
+D:\C#\SimpleProject1\SimpleProject1\bin\Debug\SimpleProject1.exe.config
+D:\C#\SimpleProject1\SimpleProject1\bin\Debug\SimpleProject1.exe
+D:\C#\SimpleProject1\SimpleProject1\bin\Debug\SimpleProject1.pdb
+D:\C#\SimpleProject1\SimpleProject1\obj\Debug\SimpleProject1.csprojResolveAssemblyReference.cache
+D:\C#\SimpleProject1\SimpleProject1\obj\Debug\SimpleProject1.csproj.CoreCompileInputs.cache
+D:\C#\SimpleProject1\SimpleProject1\obj\Debug\SimpleProject1.exe
+D:\C#\SimpleProject1\SimpleProject1\obj\Debug\SimpleProject1.pdb

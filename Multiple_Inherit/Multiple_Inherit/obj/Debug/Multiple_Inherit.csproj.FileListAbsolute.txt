@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\Multiple_Inherit\Multiple_Inherit\obj\Debug\Multiple_Inherit.csprojResolveAssemblyReference.cache
+C:\Users\admin\source\repos\Multiple_Inherit\Multiple_Inherit\obj\Debug\Multiple_Inherit.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Multiple_Inherit\Multiple_Inherit\bin\Debug\Multiple_Inherit.exe.config
+C:\Users\admin\source\repos\Multiple_Inherit\Multiple_Inherit\bin\Debug\Multiple_Inherit.exe
+C:\Users\admin\source\repos\Multiple_Inherit\Multiple_Inherit\bin\Debug\Multiple_Inherit.pdb
+C:\Users\admin\source\repos\Multiple_Inherit\Multiple_Inherit\obj\Debug\Multiple_Inherit.exe
+C:\Users\admin\source\repos\Multiple_Inherit\Multiple_Inherit\obj\Debug\Multiple_Inherit.pdb

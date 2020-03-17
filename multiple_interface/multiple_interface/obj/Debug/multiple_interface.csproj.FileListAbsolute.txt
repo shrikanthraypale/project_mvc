@@ -1,0 +1,7 @@
+D:\C#\multiple_interface\multiple_interface\bin\Debug\multiple_interface.exe.config
+D:\C#\multiple_interface\multiple_interface\bin\Debug\multiple_interface.exe
+D:\C#\multiple_interface\multiple_interface\bin\Debug\multiple_interface.pdb
+D:\C#\multiple_interface\multiple_interface\obj\Debug\multiple_interface.csproj.CoreCompileInputs.cache
+D:\C#\multiple_interface\multiple_interface\obj\Debug\multiple_interface.exe
+D:\C#\multiple_interface\multiple_interface\obj\Debug\multiple_interface.pdb
+D:\C#\multiple_interface\multiple_interface\obj\Debug\multiple_interface.csprojResolveAssemblyReference.cache

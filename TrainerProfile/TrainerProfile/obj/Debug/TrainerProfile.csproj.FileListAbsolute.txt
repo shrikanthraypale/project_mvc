@@ -1,0 +1,10 @@
+D:\C#\TrainerProfile\TrainerProfile\bin\Debug\TrainerProfile.exe.config
+D:\C#\TrainerProfile\TrainerProfile\bin\Debug\TrainerProfile.exe
+D:\C#\TrainerProfile\TrainerProfile\bin\Debug\TrainerProfile.pdb
+D:\C#\TrainerProfile\TrainerProfile\obj\Debug\TrainerProfile.csprojResolveAssemblyReference.cache
+D:\C#\TrainerProfile\TrainerProfile\obj\Debug\TrainerProfile.Master.resources
+D:\C#\TrainerProfile\TrainerProfile\obj\Debug\TrainerProfile.Properties.Resources.resources
+D:\C#\TrainerProfile\TrainerProfile\obj\Debug\TrainerProfile.csproj.GenerateResource.Cache
+D:\C#\TrainerProfile\TrainerProfile\obj\Debug\TrainerProfile.csproj.CoreCompileInputs.cache
+D:\C#\TrainerProfile\TrainerProfile\obj\Debug\TrainerProfile.exe
+D:\C#\TrainerProfile\TrainerProfile\obj\Debug\TrainerProfile.pdb

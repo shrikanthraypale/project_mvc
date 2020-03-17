@@ -1,0 +1,9 @@
+D:\C#\codechallege1\codechallege1\bin\Debug\codechallege1.exe.config
+D:\C#\codechallege1\codechallege1\bin\Debug\codechallege1.exe
+D:\C#\codechallege1\codechallege1\bin\Debug\codechallege1.pdb
+D:\C#\codechallege1\codechallege1\obj\Debug\codechallege1.csprojResolveAssemblyReference.cache
+D:\C#\codechallege1\codechallege1\obj\Debug\codechallege1.Properties.Resources.resources
+D:\C#\codechallege1\codechallege1\obj\Debug\codechallege1.csproj.GenerateResource.Cache
+D:\C#\codechallege1\codechallege1\obj\Debug\codechallege1.csproj.CoreCompileInputs.cache
+D:\C#\codechallege1\codechallege1\obj\Debug\codechallege1.exe
+D:\C#\codechallege1\codechallege1\obj\Debug\codechallege1.pdb

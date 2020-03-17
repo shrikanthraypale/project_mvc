@@ -1,0 +1,9 @@
+D:\C#\AddingExternalLibrary\AddingExternalLibrary\bin\Debug\AddingExternalLibrary.exe.config
+D:\C#\AddingExternalLibrary\AddingExternalLibrary\bin\Debug\AddingExternalLibrary.exe
+D:\C#\AddingExternalLibrary\AddingExternalLibrary\bin\Debug\AddingExternalLibrary.pdb
+D:\C#\AddingExternalLibrary\AddingExternalLibrary\bin\Debug\SimpleLibrary.dll
+D:\C#\AddingExternalLibrary\AddingExternalLibrary\bin\Debug\SimpleLibrary.pdb
+D:\C#\AddingExternalLibrary\AddingExternalLibrary\obj\Debug\AddingExternalLibrary.csprojResolveAssemblyReference.cache
+D:\C#\AddingExternalLibrary\AddingExternalLibrary\obj\Debug\AddingExternalLibrary.csproj.CoreCompileInputs.cache
+D:\C#\AddingExternalLibrary\AddingExternalLibrary\obj\Debug\AddingExternalLibrary.exe
+D:\C#\AddingExternalLibrary\AddingExternalLibrary\obj\Debug\AddingExternalLibrary.pdb

@@ -1,0 +1,10 @@
+D:\C#\windowForm\SimpleLoginForm\SimpleLoginForm\bin\Debug\SimpleLoginForm.exe.config
+D:\C#\windowForm\SimpleLoginForm\SimpleLoginForm\bin\Debug\SimpleLoginForm.exe
+D:\C#\windowForm\SimpleLoginForm\SimpleLoginForm\bin\Debug\SimpleLoginForm.pdb
+D:\C#\windowForm\SimpleLoginForm\SimpleLoginForm\obj\Debug\SimpleLoginForm.csprojResolveAssemblyReference.cache
+D:\C#\windowForm\SimpleLoginForm\SimpleLoginForm\obj\Debug\SimpleLoginForm.Login.resources
+D:\C#\windowForm\SimpleLoginForm\SimpleLoginForm\obj\Debug\SimpleLoginForm.Properties.Resources.resources
+D:\C#\windowForm\SimpleLoginForm\SimpleLoginForm\obj\Debug\SimpleLoginForm.csproj.GenerateResource.Cache
+D:\C#\windowForm\SimpleLoginForm\SimpleLoginForm\obj\Debug\SimpleLoginForm.csproj.CoreCompileInputs.cache
+D:\C#\windowForm\SimpleLoginForm\SimpleLoginForm\obj\Debug\SimpleLoginForm.exe
+D:\C#\windowForm\SimpleLoginForm\SimpleLoginForm\obj\Debug\SimpleLoginForm.pdb

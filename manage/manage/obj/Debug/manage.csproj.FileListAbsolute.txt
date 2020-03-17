@@ -1,0 +1,5 @@
+D:\C#\manage\manage\obj\Debug\manage.csprojResolveAssemblyReference.cache
+D:\C#\manage\manage\obj\Debug\StudentManagement.StudentInfo.resources
+D:\C#\manage\manage\obj\Debug\manage.Properties.Resources.resources
+D:\C#\manage\manage\obj\Debug\manage.csproj.GenerateResource.Cache
+D:\C#\manage\manage\obj\Debug\manage.csproj.CoreCompileInputs.cache

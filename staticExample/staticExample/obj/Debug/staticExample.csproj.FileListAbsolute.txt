@@ -1,0 +1,7 @@
+D:\C#\staticExample\staticExample\bin\Debug\staticExample.exe.config
+D:\C#\staticExample\staticExample\bin\Debug\staticExample.exe
+D:\C#\staticExample\staticExample\bin\Debug\staticExample.pdb
+D:\C#\staticExample\staticExample\obj\Debug\staticExample.csprojResolveAssemblyReference.cache
+D:\C#\staticExample\staticExample\obj\Debug\staticExample.csproj.CoreCompileInputs.cache
+D:\C#\staticExample\staticExample\obj\Debug\staticExample.exe
+D:\C#\staticExample\staticExample\obj\Debug\staticExample.pdb

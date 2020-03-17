@@ -1,0 +1,7 @@
+D:\C#\MultiThread1\MultiThread1\bin\Debug\MultiThread1.exe.config
+D:\C#\MultiThread1\MultiThread1\bin\Debug\MultiThread1.exe
+D:\C#\MultiThread1\MultiThread1\bin\Debug\MultiThread1.pdb
+D:\C#\MultiThread1\MultiThread1\obj\Debug\MultiThread1.csprojResolveAssemblyReference.cache
+D:\C#\MultiThread1\MultiThread1\obj\Debug\MultiThread1.csproj.CoreCompileInputs.cache
+D:\C#\MultiThread1\MultiThread1\obj\Debug\MultiThread1.exe
+D:\C#\MultiThread1\MultiThread1\obj\Debug\MultiThread1.pdb

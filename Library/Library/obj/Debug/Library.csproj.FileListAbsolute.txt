@@ -1,0 +1,10 @@
+D:\C#\Library\Library\bin\Debug\Library.exe.config
+D:\C#\Library\Library\bin\Debug\Library.exe
+D:\C#\Library\Library\bin\Debug\Library.pdb
+D:\C#\Library\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
+D:\C#\Library\Library\obj\Debug\Library.form1.resources
+D:\C#\Library\Library\obj\Debug\Library.Properties.Resources.resources
+D:\C#\Library\Library\obj\Debug\Library.csproj.GenerateResource.Cache
+D:\C#\Library\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+D:\C#\Library\Library\obj\Debug\Library.exe
+D:\C#\Library\Library\obj\Debug\Library.pdb

@@ -1,0 +1,7 @@
+D:\C#\Cshap_practice\Cshap_practice\bin\Debug\Cshap_practice.exe.config
+D:\C#\Cshap_practice\Cshap_practice\bin\Debug\Cshap_practice.exe
+D:\C#\Cshap_practice\Cshap_practice\bin\Debug\Cshap_practice.pdb
+D:\C#\Cshap_practice\Cshap_practice\obj\Debug\Cshap_practice.csprojResolveAssemblyReference.cache
+D:\C#\Cshap_practice\Cshap_practice\obj\Debug\Cshap_practice.csproj.CoreCompileInputs.cache
+D:\C#\Cshap_practice\Cshap_practice\obj\Debug\Cshap_practice.exe
+D:\C#\Cshap_practice\Cshap_practice\obj\Debug\Cshap_practice.pdb

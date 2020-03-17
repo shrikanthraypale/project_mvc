@@ -1,0 +1,10 @@
+D:\C#\windowForm\EmployeeInformation\EmployeeInformation\bin\Debug\EmployeeInformation.exe.config
+D:\C#\windowForm\EmployeeInformation\EmployeeInformation\bin\Debug\EmployeeInformation.exe
+D:\C#\windowForm\EmployeeInformation\EmployeeInformation\bin\Debug\EmployeeInformation.pdb
+D:\C#\windowForm\EmployeeInformation\EmployeeInformation\obj\Debug\EmployeeInformation.csprojResolveAssemblyReference.cache
+D:\C#\windowForm\EmployeeInformation\EmployeeInformation\obj\Debug\EmployeeInformation.Form1.resources
+D:\C#\windowForm\EmployeeInformation\EmployeeInformation\obj\Debug\EmployeeInformation.Properties.Resources.resources
+D:\C#\windowForm\EmployeeInformation\EmployeeInformation\obj\Debug\EmployeeInformation.csproj.GenerateResource.Cache
+D:\C#\windowForm\EmployeeInformation\EmployeeInformation\obj\Debug\EmployeeInformation.csproj.CoreCompileInputs.cache
+D:\C#\windowForm\EmployeeInformation\EmployeeInformation\obj\Debug\EmployeeInformation.exe
+D:\C#\windowForm\EmployeeInformation\EmployeeInformation\obj\Debug\EmployeeInformation.pdb

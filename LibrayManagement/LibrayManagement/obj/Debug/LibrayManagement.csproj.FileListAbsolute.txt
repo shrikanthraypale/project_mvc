@@ -1,0 +1,10 @@
+D:\C#\LibrayManagement\LibrayManagement\bin\Debug\LibrayManagement.exe.config
+D:\C#\LibrayManagement\LibrayManagement\bin\Debug\LibrayManagement.exe
+D:\C#\LibrayManagement\LibrayManagement\bin\Debug\LibrayManagement.pdb
+D:\C#\LibrayManagement\LibrayManagement\obj\Debug\LibrayManagement.csprojResolveAssemblyReference.cache
+D:\C#\LibrayManagement\LibrayManagement\obj\Debug\LibrayManagement.LibForm.resources
+D:\C#\LibrayManagement\LibrayManagement\obj\Debug\LibrayManagement.Properties.Resources.resources
+D:\C#\LibrayManagement\LibrayManagement\obj\Debug\LibrayManagement.csproj.GenerateResource.Cache
+D:\C#\LibrayManagement\LibrayManagement\obj\Debug\LibrayManagement.csproj.CoreCompileInputs.cache
+D:\C#\LibrayManagement\LibrayManagement\obj\Debug\LibrayManagement.exe
+D:\C#\LibrayManagement\LibrayManagement\obj\Debug\LibrayManagement.pdb

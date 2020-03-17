@@ -1,0 +1,7 @@
+D:\C#\MultilevelInherit\MultilevelInherit\obj\Debug\MultilevelInherit.csprojResolveAssemblyReference.cache
+D:\C#\MultilevelInherit\MultilevelInherit\obj\Debug\MultilevelInherit.csproj.CoreCompileInputs.cache
+D:\C#\MultilevelInherit\MultilevelInherit\bin\Debug\MultilevelInherit.exe.config
+D:\C#\MultilevelInherit\MultilevelInherit\bin\Debug\MultilevelInherit.exe
+D:\C#\MultilevelInherit\MultilevelInherit\bin\Debug\MultilevelInherit.pdb
+D:\C#\MultilevelInherit\MultilevelInherit\obj\Debug\MultilevelInherit.exe
+D:\C#\MultilevelInherit\MultilevelInherit\obj\Debug\MultilevelInherit.pdb

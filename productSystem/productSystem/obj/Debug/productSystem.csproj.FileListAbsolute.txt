@@ -1,0 +1,7 @@
+D:\C#\productSystem\productSystem\obj\Debug\productSystem.csprojResolveAssemblyReference.cache
+D:\C#\productSystem\productSystem\obj\Debug\productSystem.csproj.CoreCompileInputs.cache
+D:\C#\productSystem\productSystem\bin\Debug\productSystem.exe.config
+D:\C#\productSystem\productSystem\bin\Debug\productSystem.exe
+D:\C#\productSystem\productSystem\bin\Debug\productSystem.pdb
+D:\C#\productSystem\productSystem\obj\Debug\productSystem.exe
+D:\C#\productSystem\productSystem\obj\Debug\productSystem.pdb

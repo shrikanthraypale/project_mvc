@@ -1,0 +1,7 @@
+D:\C#\Billing\Billing\obj\Debug\Billing.csprojResolveAssemblyReference.cache
+D:\C#\Billing\Billing\obj\Debug\Billing.csproj.CoreCompileInputs.cache
+D:\C#\Billing\Billing\bin\Debug\Billing.exe.config
+D:\C#\Billing\Billing\bin\Debug\Billing.exe
+D:\C#\Billing\Billing\bin\Debug\Billing.pdb
+D:\C#\Billing\Billing\obj\Debug\Billing.exe
+D:\C#\Billing\Billing\obj\Debug\Billing.pdb

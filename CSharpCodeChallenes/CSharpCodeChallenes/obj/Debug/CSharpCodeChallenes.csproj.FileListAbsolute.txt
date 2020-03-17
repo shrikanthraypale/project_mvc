@@ -1,0 +1,7 @@
+D:\C#\CSharpCodeChallenes\CSharpCodeChallenes\bin\Debug\CSharpCodeChallenes.exe.config
+D:\C#\CSharpCodeChallenes\CSharpCodeChallenes\bin\Debug\CSharpCodeChallenes.exe
+D:\C#\CSharpCodeChallenes\CSharpCodeChallenes\bin\Debug\CSharpCodeChallenes.pdb
+D:\C#\CSharpCodeChallenes\CSharpCodeChallenes\obj\Debug\CSharpCodeChallenes.csprojResolveAssemblyReference.cache
+D:\C#\CSharpCodeChallenes\CSharpCodeChallenes\obj\Debug\CSharpCodeChallenes.csproj.CoreCompileInputs.cache
+D:\C#\CSharpCodeChallenes\CSharpCodeChallenes\obj\Debug\CSharpCodeChallenes.exe
+D:\C#\CSharpCodeChallenes\CSharpCodeChallenes\obj\Debug\CSharpCodeChallenes.pdb

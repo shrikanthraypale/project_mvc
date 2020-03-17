@@ -1,0 +1,15 @@
+D:\C#\LibraryApp\LibraryApp\bin\Debug\LibraryApp.exe.config
+D:\C#\LibraryApp\LibraryApp\bin\Debug\LibraryApp.exe
+D:\C#\LibraryApp\LibraryApp\bin\Debug\LibraryApp.pdb
+D:\C#\LibraryApp\LibraryApp\obj\Debug\LibraryApp.csprojResolveAssemblyReference.cache
+D:\C#\LibraryApp\LibraryApp\obj\Debug\LibraryApp.Application.resources
+D:\C#\LibraryApp\LibraryApp\obj\Debug\LibraryApp.Properties.Resources.resources
+D:\C#\LibraryApp\LibraryApp\obj\Debug\LibraryApp.csproj.GenerateResource.Cache
+D:\C#\LibraryApp\LibraryApp\obj\Debug\LibraryApp.csproj.CoreCompileInputs.cache
+D:\C#\LibraryApp\LibraryApp\obj\Debug\LibraryApp.exe
+D:\C#\LibraryApp\LibraryApp\obj\Debug\LibraryApp.pdb
+D:\C#\LibraryApp\LibraryApp\obj\Debug\LibraryApp.MemberRegister.resources
+D:\C#\LibraryApp\LibraryApp\obj\Debug\LibraryApp.WalkInRegister.resources
+D:\C#\LibraryApp\LibraryApp\obj\Debug\LibraryApp.BookDetail.resources
+D:\C#\LibraryApp\LibraryApp\obj\Debug\LibraryApp.Category.resources
+D:\C#\LibraryApp\LibraryApp\obj\Debug\LibraryApp.TransactionDetail.resources

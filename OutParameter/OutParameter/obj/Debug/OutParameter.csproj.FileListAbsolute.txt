@@ -1,0 +1,7 @@
+D:\C#\OutParameter\OutParameter\obj\Debug\OutParameter.csprojResolveAssemblyReference.cache
+D:\C#\OutParameter\OutParameter\obj\Debug\OutParameter.csproj.CoreCompileInputs.cache
+D:\C#\OutParameter\OutParameter\bin\Debug\OutParameter.exe.config
+D:\C#\OutParameter\OutParameter\bin\Debug\OutParameter.exe
+D:\C#\OutParameter\OutParameter\bin\Debug\OutParameter.pdb
+D:\C#\OutParameter\OutParameter\obj\Debug\OutParameter.exe
+D:\C#\OutParameter\OutParameter\obj\Debug\OutParameter.pdb

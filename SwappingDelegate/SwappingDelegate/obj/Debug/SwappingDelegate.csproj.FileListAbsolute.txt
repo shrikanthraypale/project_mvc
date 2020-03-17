@@ -1,0 +1,7 @@
+D:\C#\SwappingDelegate\SwappingDelegate\obj\Debug\SwappingDelegate.csprojResolveAssemblyReference.cache
+D:\C#\SwappingDelegate\SwappingDelegate\obj\Debug\SwappingDelegate.csproj.CoreCompileInputs.cache
+D:\C#\SwappingDelegate\SwappingDelegate\bin\Debug\SwappingDelegate.exe.config
+D:\C#\SwappingDelegate\SwappingDelegate\bin\Debug\SwappingDelegate.exe
+D:\C#\SwappingDelegate\SwappingDelegate\bin\Debug\SwappingDelegate.pdb
+D:\C#\SwappingDelegate\SwappingDelegate\obj\Debug\SwappingDelegate.exe
+D:\C#\SwappingDelegate\SwappingDelegate\obj\Debug\SwappingDelegate.pdb

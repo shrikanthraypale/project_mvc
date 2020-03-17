@@ -1,0 +1,12 @@
+D:\C#\LoginForm\LoginForm\bin\Debug\LoginForm.exe.config
+D:\C#\LoginForm\LoginForm\bin\Debug\LoginForm.exe
+D:\C#\LoginForm\LoginForm\bin\Debug\LoginForm.pdb
+D:\C#\LoginForm\LoginForm\obj\Debug\LoginForm.csprojResolveAssemblyReference.cache
+D:\C#\LoginForm\LoginForm\obj\Debug\LoginForm.Form1.resources
+D:\C#\LoginForm\LoginForm\obj\Debug\LoginForm.Properties.Resources.resources
+D:\C#\LoginForm\LoginForm\obj\Debug\LoginForm.csproj.GenerateResource.Cache
+D:\C#\LoginForm\LoginForm\obj\Debug\LoginForm.csproj.CoreCompileInputs.cache
+D:\C#\LoginForm\LoginForm\obj\Debug\LoginForm.exe
+D:\C#\LoginForm\LoginForm\obj\Debug\LoginForm.pdb
+D:\C#\LoginForm\LoginForm\bin\Debug\Database1.mdf
+D:\C#\LoginForm\LoginForm\bin\Debug\Database1_log.ldf

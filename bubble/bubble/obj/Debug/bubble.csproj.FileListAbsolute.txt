@@ -1,0 +1,6 @@
+D:\C#\bubble\bubble\bin\Debug\bubble.exe.config
+D:\C#\bubble\bubble\bin\Debug\bubble.exe
+D:\C#\bubble\bubble\bin\Debug\bubble.pdb
+D:\C#\bubble\bubble\obj\Debug\bubble.csproj.CoreCompileInputs.cache
+D:\C#\bubble\bubble\obj\Debug\bubble.exe
+D:\C#\bubble\bubble\obj\Debug\bubble.pdb

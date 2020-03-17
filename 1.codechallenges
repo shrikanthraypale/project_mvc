@@ -1,0 +1,13 @@
+
+<!DocTYPE>
+<html lang="en">
+<head>
+   <title>CodeChallenges</title>
+</head>
+
+<body>
+
+   <h1 Onclick="ChangeTextAfterClicking(this)">Click on this text</h1>
+
+    <Script>
+	function

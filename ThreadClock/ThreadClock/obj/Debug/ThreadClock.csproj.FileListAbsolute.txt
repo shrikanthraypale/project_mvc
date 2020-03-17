@@ -1,0 +1,7 @@
+D:\C#\ThreadClock\ThreadClock\bin\Debug\ThreadClock.exe.config
+D:\C#\ThreadClock\ThreadClock\bin\Debug\ThreadClock.exe
+D:\C#\ThreadClock\ThreadClock\bin\Debug\ThreadClock.pdb
+D:\C#\ThreadClock\ThreadClock\obj\Debug\ThreadClock.csprojResolveAssemblyReference.cache
+D:\C#\ThreadClock\ThreadClock\obj\Debug\ThreadClock.csproj.CoreCompileInputs.cache
+D:\C#\ThreadClock\ThreadClock\obj\Debug\ThreadClock.exe
+D:\C#\ThreadClock\ThreadClock\obj\Debug\ThreadClock.pdb

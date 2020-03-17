@@ -1,0 +1,7 @@
+D:\C#\argumentprog\argumentprog\bin\Debug\argumentprog.exe.config
+D:\C#\argumentprog\argumentprog\bin\Debug\argumentprog.exe
+D:\C#\argumentprog\argumentprog\bin\Debug\argumentprog.pdb
+D:\C#\argumentprog\argumentprog\obj\Debug\argumentprog.csprojResolveAssemblyReference.cache
+D:\C#\argumentprog\argumentprog\obj\Debug\argumentprog.csproj.CoreCompileInputs.cache
+D:\C#\argumentprog\argumentprog\obj\Debug\argumentprog.exe
+D:\C#\argumentprog\argumentprog\obj\Debug\argumentprog.pdb
